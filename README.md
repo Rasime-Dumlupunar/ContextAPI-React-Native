@@ -19,3 +19,5 @@ Bu proje, React Native kullanılarak geliştirilmiş basit bir kullanıcı ve g�
 - ➕ **Add Task**: Yeni görev oluşturmak için input alanı.
 - 🌐 **Context API**: Kullanıcı ve görev bilgilerini global olarak yönetmek için.
 - 🔗 **Axios**: API'den kullanıcı ve görev verilerini çekmek için.
+
+![](https://github.com/Rasime-Dumlupunar/ContextAPI-React-Native/blob/main/context-api.gif)
