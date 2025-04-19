@@ -1,4 +1,4 @@
-# 📱 React Native Task Manager App
+# 📱 Task Manager App
 
 Bu proje, React Native kullanılarak geliştirilmiş basit bir kullanıcı ve görev yönetim uygulamasıdır. Kullanıcı listesi, detay sayfası, görev görüntüleme ve yeni görev ekleme gibi temel işlevleri barındırır. Uygulamada **Context API** ile global state yönetimi ve **Axios** ile dış kaynaklardan veri alma işlemleri örneklendirilmiştir.
 
